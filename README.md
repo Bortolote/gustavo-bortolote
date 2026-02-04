@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo Bortolote! 👋
 
-Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e **Desenvolvimento de Software**. [cite_start]Atualmente, aplico modelos quantitativos e automação no setor de energia elétrica[cite: 1, 7, 8].
+Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e **Desenvolvimento de Software**. Atualmente, aplico modelos quantitativos e automação no setor de energia elétrica.
 
 ---
 
@@ -8,10 +8,10 @@ Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e *
 
 | Categoria | Descrição |
 | :--- | :--- |
-| **Atuação Atual** | [cite_start]Estagiário em Modelagem de Risco e Automação Quanti no setor elétrico[cite: 1]. |
-| **Foco Técnico** | [cite_start]Especialista em traduzir teoria estatística para código eficiente (Python/R)[cite: 1, 12]. |
-| **Interesses** | [cite_start]Séries Temporais, Machine Learning e Inteligência Artificial[cite: 1, 10]. |
-| **Idiomas** | [cite_start]Inglês Avançado para documentação e colaboração global[cite: 1, 16]. |
+| **Atuação Atual** | Estagiário em Modelagem de Risco e Automação Quanti. |
+| **Foco Técnico** | Especialista em traduzir teoria estatística para código (Python/R). |
+| **Interesses** | Séries Temporais, Machine Learning e Inteligência Artificial. |
+| **Idiomas** | Inglês Avançado para documentação e colaboração técnica. |
 
 ---
 
@@ -41,10 +41,10 @@ Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e *
 ### 📂 Projetos em Destaque
 
 > **[Otimização de Breeding - PokeMMO]**
-> [cite_start]Desenvolvimento de algoritmos em Python para cálculo de probabilidade e caminhos ideais de breeding utilizando lógica de POO[cite: 1, 12].
+> Desenvolvimento de algoritmos em Python para cálculo de probabilidade e caminhos ideais de breeding utilizando lógica de POO.
 
 > **[Análise Climática - Mercado de Energia]**
-> [cite_start]Modelagem de dados meteorológicos históricos em R para suporte à formação de preços futuros[cite: 1, 12, 13].
+> Modelagem de dados meteorológicos históricos em R para suporte à formação de preços futuros.
 
 ---
 
@@ -54,4 +54,4 @@ Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e *
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bortolotegustavo@gmail.com)
 
 ---
-[cite_start]*“Transformando grandes volumes de dados em modelos de previsão estatística e inteligência.”* [cite: 1, 13]
+*"Transformando grandes volumes de dados em modelos de previsão estatística e inteligência".*
