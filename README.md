@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Bortolote! 👋
+# Olá, eu sou o Gustavo Bortolote!
 
 Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e **Desenvolvimento de Software**. Atualmente, aplico modelos quantitativos e automação no setor de energia elétrica.
 
