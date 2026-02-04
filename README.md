@@ -29,15 +29,6 @@ Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e *
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-bortolote&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bortolote&layout=compact&langs_count=7&theme=dracula"/>
-</p>
-
----
-
 ### 📂 Projetos em Destaque
 
 > **[Otimização de Breeding - PokeMMO]**
@@ -51,7 +42,6 @@ Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e *
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bortolote-589444307)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bortolotegustavo@gmail.com)
 
 ---
 *"Transformando grandes volumes de dados em modelos de previsão estatística e inteligência".*
