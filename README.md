@@ -31,11 +31,8 @@ Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e *
 
 ### 📂 Projetos em Destaque
 
-> **[Otimização de Breeding - PokeMMO]**
-> Desenvolvimento de algoritmos em Python para cálculo de probabilidade e caminhos ideais de breeding utilizando lógica de POO.
-
-> **[Análise Climática - Mercado de Energia]**
-> Modelagem de dados meteorológicos históricos em R para suporte à formação de preços futuros.
+> **[Predição de Diabetes com Machine Learning]**
+> Desenvolvimento de algoritmos de aprendizado de máquina para prever o risco de diabetes com base em dados clínicos e populacionais.
 
 ---
 
