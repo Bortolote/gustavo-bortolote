@@ -31,7 +31,7 @@ Estatístico em formação pela **UFSCar** com foco em **Ciência de Dados** e *
 
 ### 📂 Projetos em Destaque
 
-> **[Predição de Diabetes com Machine Learning]**
+> **[[Predição de Diabetes com Machine Learning](https://github.com/Bortolote/diabetes-comparative-ml)]**
 > Desenvolvimento de algoritmos de aprendizado de máquina para prever o risco de diabetes com base em dados clínicos e populacionais.
 
 ---
